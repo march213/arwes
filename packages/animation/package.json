@@ -22,6 +22,9 @@
   ],
   "main": "lib/index.js",
   "dependencies": {
-    "@babel/runtime": "^7.4.3"
+    "@babel/runtime": "^7.6.2"
+  },
+  "peerDependencies": {
+    "react": "*"
   }
 }
